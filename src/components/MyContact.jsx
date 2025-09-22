@@ -32,7 +32,7 @@ const MyContact = () => {
     { icon: <MdLocationPin className="text-3xl text-[#38bdf8]" />, text: "Sargodha, Punjab, Pakistan", link: "#" },
     { icon: <MdOutlineAlternateEmail className="text-3xl text-[#38bdf8]" />, text: "huzaifamazhar007@gmail.com", link: "mailto:huzaifamazhar007@gmail.com" },
     { icon: <FaPhoneAlt className="text-3xl text-[#38bdf8]" />, text: "+92 303-6999412", link: "tel:+923086046246" },
-      { icon: <CgWebsite className="text-3xl text-[#38bdf8]" />, text: "https://huzaifamazhar.com", link: "https://fakharabbas.com" },
+      { icon: <CgWebsite className="text-3xl text-[#38bdf8]" />, text: "https://huzaifamazhar.com", link: "https://huzaifa-mazhar.vercel.app/" },
   ];
   return (
     <Fragment>
